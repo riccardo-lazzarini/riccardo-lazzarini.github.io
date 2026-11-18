@@ -221,12 +221,12 @@ ul.plain li::before {
 footer {
   margin-top: 56px;
   padding-top: 18px;
-  border-top: 1px solid var(--rule);
   font-size: 14.5px;
   color: var(--muted);
 }
 
 footer p { margin: 0; }
+footer .last-updated { margin-top: 8px; text-align: right; font-size: 12px; }
 
 /* ------------------------- Mobile ------------------------- */
 
