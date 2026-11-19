@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riccardo-lazzarini.github.io/sitemap.xml
